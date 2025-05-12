@@ -15,4 +15,7 @@ $ pip install Flask
 
 
 #Recien ahí es que puedes correr: 
+#desde estaubicación: D:\OneDrive\Documents\ESTUDIOS\SI\Platzi\Docker\python>   
 $ python -m flask run 
+
+# en el explorador ya puedo entrar a http://127.0.0.1:5000/getMyInfo y podré ver lo que hace el metodo 
