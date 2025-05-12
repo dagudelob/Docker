@@ -1,5 +1,5 @@
 # escoger la version de python a descargar en el Docker
-FROM python:3.12-alpine3.17 
+FROM python:3.12.10-alpine3.21
 
 #area de trabajo de mi app
 WORKDIR /app
