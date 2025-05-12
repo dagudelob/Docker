@@ -1,0 +1,18 @@
+si obtengo el error como este:
+"python.exe: No module named flask".
+
+python
+flask
+
+# hay que crear un entorno virtual con este comando:
+$ python -m venv venv
+
+
+Luego entrar en el entorno virtual: /venv/bin/activate (si utilizas Mac o Linux) o venv\Scripts\activate (si utilizas Windows).
+
+Luego instalar Flask: 
+$ pip install Flask
+
+
+#Recien ahí es que puedes correr: 
+$ python -m flask run 
